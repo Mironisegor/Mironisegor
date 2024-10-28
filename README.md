@@ -1,6 +1,4 @@
-# Nice to see you 👋
-
-I make elegantly professional 💻⎈🐳 **Distributed Infrastructure / Kubernetes** ☁️ **Cloud Native** 📝 **DeFi Smart Contract** and 🌐 **Website** for a living and also **Write some blogs**. 🌈    
+# Nice to see you 👋    
 
 * 🧐   Interested in IOS.
 * 👨‍💻   Now I'm a SFEDU Student.
