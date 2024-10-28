@@ -3,12 +3,8 @@
 I make elegantly professional 💻⎈🐳 **Distributed Infrastructure / Kubernetes** ☁️ **Cloud Native** 📝 **DeFi Smart Contract** and 🌐 **Website** for a living and also **Write some blogs**. 🌈    
 
 * 🧐   Interested in IOS.
-* 💼   Now I'm a SFEDU Student.
-* 🌱   Currently learning Swift, C++, Python.
-* 📚   Reading 《Systems Performance 2nd Ed.》《BPF Performance Tools book》.
-* 💻   With 4 years' computer science and technology education and 5 years' development working experience.
-* ⛵   Encouraging people for open source collaborations.
-* ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](https://halfrost.com/)(Cumulative 7.67 million PV / 4.31 million UV).
+* 👨‍💻   Now I'm a SFEDU Student.
+* 🔍   Currently learning Swift, C++, Python.
 
 <details>
   <summary>Some other achievements about me~e~e</summary>
