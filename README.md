@@ -6,8 +6,8 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="Visual Studio Code" width="26px" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg)" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg](https://www.google.com/search?sca_esv=f9749d82eb8de094&rlz=1C1CHZN_ruRU1056RU1056&sxsrf=ADLYWIJuELopZxp0bCtSB4WpeBNxGiVGNw:1730137000511&q=%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF+swift&udm=2&fbs=AEQNm0Dnj4cdE5jlmSqHl9uUmf9dp2o9E-YyqmgqIRV1LB81jNe14Gk36XGdDliNIg3RQ6HUOHuHcP5cF4l5iJ2lfx22AerZ_XHllC4byknlugIKOIfyzf0WvaKvnK7vy18ff-UlMSc6vQRv_-_kQ3SRqyYb-qMwtlD4A7jm-P99aNWsXScgFACMpBs6_c1ixNcszym4h6MI&sa=X&ved=2ahUKEwiu4M_KzrGJAxXREVkFHZUWBR4QtKgLegQIEBAB&biw=1440&bih=731&dpr=2#vhid=WofPhBKHeM_-SM&vssid=mosaic)" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][cssplaylist]
 [<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />][cssplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][jsplaylist]
