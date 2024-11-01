@@ -1,26 +1,29 @@
-# Nice to see you 👋    
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00e64d&height=120&section=header"/>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffe6&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+João+Marcelo+Colombini;Tenho+16+anos+de+idade;Sou+de+Fortaleza,+Ceará;Estudo+informática+no+IFCE+Campus+Fortaleza;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
 
-```swift
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jmcolombini&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=b38f00&text_color=c9d1d9&bg_color=0d1117" alt="João Marcelo Colombini github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmcolombini&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
+</div>
 
-class IosDeveloper {
-    var name: String
-    var role: String
-    var languageSpoken: [String]
 
-    init() {
-        self.name = "Mironov Egor"
-        self.role = "IOS Developer"
-        self.languageSpoken = ["RU", "en_US"]
-    }
+<h3  align="center">
+ Tecnologias que estudo
+  
+</h3>
+<div align="center">
+<img height="43" width="43" src="https://img.icons8.com/m_sharp/512/FFFFFF/java-coffee-cup-logo.png" /> 
+<img height="40" width="40" src="https://cdn.simpleicons.org/css3/FFFFFF" /> 
+<img height="40" width="40" src="https://cdn.simpleicons.org/html5/FFFFFF"/> 
+<img height="40" width="40" src="https://cdn.simpleicons.org/javascript/FFFFFF"/> 
+<img height="40" width="40" src="https://cdn.simpleicons.org/swift/FFFFFF"/> 
+<img height="40" width="40" src="https://cdn.simpleicons.org/python/FFFFFF"/>    
 
-    func greeting() {
-        print("Thank you for your interest. I hope you will find interesting works here.")
-    }
-}
+</div>
 
-let me = IosDeveloper()
-me.greeting()
-```
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00e64d&height=120&section=footer"/>
 
 <!--
 **halfrost/halfrost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
