@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00e64d&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1000&color=F7F7F7&width=435&lines=Nice+to+see+you;I+hope+you+will+find+my+work+interesting)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&pause=1000&color=F7F7F7&width=435&lines=Nice+to+see+you;I+hope+you+will+find+my+work+interesting)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jmcolombini&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=b38f00&text_color=c9d1d9&bg_color=0d1117" alt="João Marcelo Colombini github stats" /> 
