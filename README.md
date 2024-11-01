@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00e64d&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffe6&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+João+Marcelo+Colombini;Tenho+16+anos+de+idade;Sou+de+Fortaleza,+Ceará;Estudo+informática+no+IFCE+Campus+Fortaleza;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1000&color=F7F7F7&width=435&lines=Nice+to+see+you;I+hope+you+will+find+my+work+interesting)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jmcolombini&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=b38f00&text_color=c9d1d9&bg_color=0d1117" alt="João Marcelo Colombini github stats" /> 
