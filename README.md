@@ -13,9 +13,6 @@
   
 </h3>
 <div align="center">
-<img height="43" width="43" src="https://img.icons8.com/m_sharp/512/FFFFFF/java-coffee-cup-logo.png" /> 
-<img height="40" width="40" src="https://cdn.simpleicons.org/css3/FFFFFF" /> 
-<img height="40" width="40" src="https://cdn.simpleicons.org/html5/FFFFFF"/> 
 <img height="40" width="40" src="https://cdn.simpleicons.org/javascript/FFFFFF"/> 
 <img height="40" width="40" src="https://cdn.simpleicons.org/swift/FFFFFF"/> 
 <img height="40" width="40" src="https://cdn.simpleicons.org/python/FFFFFF"/>    
