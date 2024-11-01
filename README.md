@@ -1,26 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00e64d&height=120&section=header"/>
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=F7F7F7&center=true&width=800&height=60&lines=Nice+to+see+you;Hope+you+will+find+my+work+interesting)](https://git.io/typing-svg)
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jmcolombini&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=b38f00&text_color=c9d1d9&bg_color=0d1117" alt="João Marcelo Colombini github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmcolombini&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
-</div>
-
-
-<h3  align="center">
- Используемые технологии
-  
-</h3>
-<div align="center">
-<img height="40" width="40" src="https://cdn.simpleicons.org/javascript/FFFFFF"/> 
-<img height="40" width="40" src="https://cdn.simpleicons.org/swift/FFFFFF"/> 
-<img height="40" width="40" src="https://cdn.simpleicons.org/python/FFFFFF"/>    
-
-</div>
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00e64d&height=120&section=footer"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=F7F7F7&center=true&width=800&height=60&lines=Nice+to+see+you)](https://git.io/typing-svg)
 
 <!--
 **halfrost/halfrost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
