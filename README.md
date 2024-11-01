@@ -9,7 +9,7 @@
 
 
 <h3  align="center">
- Tecnologias que estudo
+ Используемые технологии
   
 </h3>
 <div align="center">
